@@ -10,12 +10,19 @@ html {
 
 h1{
   color: white;
+  border-bottom: 5px solid white;
+  margin-bottom: 30px;
 }
 
 h3{
   color:white;
+  font-size: 40px;
 }
 
 p {
   color:white;
+}
+
+.thumbnail {
+  margin-top: 20px;
 }
