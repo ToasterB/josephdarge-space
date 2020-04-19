@@ -11,13 +11,14 @@ html {
 h1{
   color: white;
   border-bottom: 4px solid white;
-  padding-bottom: 5px;
-  margin-bottom: 30px;
+  padding-bottom: 6px;
+  margin-bottom: 40px;
+  text-align: center;
 }
 
 h3{
   color:white;
-  font-size: 40px;
+  font-size: 35px;
   padding: 0px;
   margin: 0px
 }
@@ -28,5 +29,6 @@ p {
 
 .thumbnail {
   margin: 0px;
+  margin-top: 12px;
   padding: 0px;
 }
