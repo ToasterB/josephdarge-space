@@ -43,3 +43,19 @@ a h3 {
   margin-top: 3px;
   padding: 0px;
 }
+
+div.game{
+  margin:auto;
+}
+
+div.game canvas {
+  padding: 0px;
+  
+}
+
+#snake {
+  margin-top: 50px;
+  width: 750px;
+  height: 750px;
+  border: solid white 3px;
+}
