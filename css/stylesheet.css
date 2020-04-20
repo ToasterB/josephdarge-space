@@ -27,6 +27,15 @@ p {
   color:white;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a h3 {
+  border-bottom: 2px solid white;
+}
+
 .thumbnail {
   margin: 0px;
   margin-top: 12px;
