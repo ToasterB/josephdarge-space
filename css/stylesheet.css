@@ -20,7 +20,9 @@ h3{
   color:white;
   font-size: 35px;
   padding: 0px;
-  margin: 0px
+  margin: 0px;
+  display: inline-block;
+  line-height: 85%;
 }
 
 p {
@@ -38,6 +40,6 @@ a h3 {
 
 .thumbnail {
   margin: 0px;
-  margin-top: 12px;
+  margin-top: 3px;
   padding: 0px;
 }
